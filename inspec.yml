@@ -9,3 +9,4 @@ summary: Test suite for best practice Linux OS hardening
 version: 2.6.3
 supports:
     - os-family: linux
+    - platform: k8s
